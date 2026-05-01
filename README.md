@@ -6,7 +6,7 @@ Sistema desktop de **cadastro de clientes (CRUD)** desenvolvido em Java com inte
 
 ## 🖥️ Demonstração
 
- ![Tela do sistema](Captura de tela 2026-05-01 165631.png)
+ ![Tela do sistema](screenshot.png)
 
 ---
 
