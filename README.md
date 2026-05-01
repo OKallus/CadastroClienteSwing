@@ -112,7 +112,7 @@ O projeto segue o padrão **DAO (Data Access Object)**, separando a lógica de a
 ## 👤 Autor
 
 Feito por **Karllus**  
-[![GitHub](https://img.shields.io/badge/GitHub-seu--usuario-181717?style=flat&logo=github)](https://github.com/seu-usuario)
+[![GitHub](https://img.shields.io/badge/GitHub-seu--usuario-181717?style=flat&logo=github)](https://github.com/OKallus)
 
 ---
 
