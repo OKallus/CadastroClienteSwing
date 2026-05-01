@@ -81,7 +81,7 @@ O projeto segue o padrão **DAO (Data Access Object)**, separando a lógica de a
 
 1. **Clone o repositório:**
    ```bash
-   git clone https://github.com/seu-usuario/CadastroClienteSwing.git
+   git clone https://github.com/OKallus/CadastroClienteSwing.git
    ```
 
 2. **Abra na sua IDE:**
